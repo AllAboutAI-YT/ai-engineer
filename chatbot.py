@@ -1,7 +1,7 @@
 import openai
 
 # Initialize the OpenAI API
-openai.api_key = "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"
+openai.api_key = "YOUR API KEY"
 
 # Initialize the conversation list
 conversation = [
