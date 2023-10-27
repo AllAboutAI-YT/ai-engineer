@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR API KEY"
 
 # Load the audio file
 audio_file = open("C:/Users/kris_/Python/API/aieng.mp3", "rb")
